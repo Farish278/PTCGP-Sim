@@ -1,0 +1,3720 @@
+[
+    {
+        "name": "Bulbasaur",
+        "image": "Genetic-Apex_A1-1.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Ivysaur",
+        "image": "Genetic-Apex_A1-2.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Venusaur",
+        "image": "Genetic-Apex_A1-3.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Venusaur ex",
+        "image": "Genetic-Apex_A1-4.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Caterpie",
+        "image": "Genetic-Apex_A1-5.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Metapod",
+        "image": "Genetic-Apex_A1-6.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Butterfree",
+        "image": "Genetic-Apex_A1-7.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Weedle",
+        "image": "Genetic-Apex_A1-8.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Kakuna",
+        "image": "Genetic-Apex_A1-9.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Beedrill",
+        "image": "Genetic-Apex_A1-10.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Oddish",
+        "image": "Genetic-Apex_A1-11.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Gloom",
+        "image": "Genetic-Apex_A1-12.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Vileplume",
+        "image": "Genetic-Apex_A1-13.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Paras",
+        "image": "Genetic-Apex_A1-14.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Parasect",
+        "image": "Genetic-Apex_A1-15.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Venonat",
+        "image": "Genetic-Apex_A1-16.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Venomoth",
+        "image": "Genetic-Apex_A1-17.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Bellsprout",
+        "image": "Genetic-Apex_A1-18.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Weepinbell",
+        "image": "Genetic-Apex_A1-19.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Victreebel",
+        "image": "Genetic-Apex_A1-20.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Exeggcute",
+        "image": "Genetic-Apex_A1-21.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Exeggutor",
+        "image": "Genetic-Apex_A1-22.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Exeggutor ex",
+        "image": "Genetic-Apex_A1-23.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Tangela",
+        "image": "Genetic-Apex_A1-24.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Scyther",
+        "image": "Genetic-Apex_A1-25.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Pinsir",
+        "image": "Genetic-Apex_A1-26.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Cottonee",
+        "image": "Genetic-Apex_A1-27.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Whimsicott",
+        "image": "Genetic-Apex_A1-28.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Petilil",
+        "image": "Genetic-Apex_A1-29.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Lilligant",
+        "image": "Genetic-Apex_A1-30.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Skiddo",
+        "image": "Genetic-Apex_A1-31.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Gogoat",
+        "image": "Genetic-Apex_A1-32.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Charmander",
+        "image": "Genetic-Apex_A1-33.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Charmeleon",
+        "image": "Genetic-Apex_A1-34.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Charizard",
+        "image": "Genetic-Apex_A1-35.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Charizard ex",
+        "image": "Genetic-Apex_A1-36.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Vulpix",
+        "image": "Genetic-Apex_A1-37.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Ninetales",
+        "image": "Genetic-Apex_A1-38.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Growlithe",
+        "image": "Genetic-Apex_A1-39.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Arcanine",
+        "image": "Genetic-Apex_A1-40.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Arcanine ex",
+        "image": "Genetic-Apex_A1-41.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Ponyta",
+        "image": "Genetic-Apex_A1-42.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Rapidash",
+        "image": "Genetic-Apex_A1-43.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Magmar",
+        "image": "Genetic-Apex_A1-44.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Flareon",
+        "image": "Genetic-Apex_A1-45.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Moltres",
+        "image": "Genetic-Apex_A1-46.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Moltres ex",
+        "image": "Genetic-Apex_A1-47.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Heatmor",
+        "image": "Genetic-Apex_A1-48.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Salandit",
+        "image": "Genetic-Apex_A1-49.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Salazzle",
+        "image": "Genetic-Apex_A1-50.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Sizzlipede",
+        "image": "Genetic-Apex_A1-51.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Centiskorch",
+        "image": "Genetic-Apex_A1-52.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Squirtle",
+        "image": "Genetic-Apex_A1-53.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Wartortle",
+        "image": "Genetic-Apex_A1-54.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Blastoise",
+        "image": "Genetic-Apex_A1-55.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Blastoise ex",
+        "image": "Genetic-Apex_A1-56.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Psyduck",
+        "image": "Genetic-Apex_A1-57.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Golduck",
+        "image": "Genetic-Apex_A1-58.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Poliwag",
+        "image": "Genetic-Apex_A1-59.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Poliwhirl",
+        "image": "Genetic-Apex_A1-60.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Poliwrath",
+        "image": "Genetic-Apex_A1-61.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Tentacool",
+        "image": "Genetic-Apex_A1-62.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Tentacruel",
+        "image": "Genetic-Apex_A1-63.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Seel",
+        "image": "Genetic-Apex_A1-64.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Dewgong",
+        "image": "Genetic-Apex_A1-65.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Shellder",
+        "image": "Genetic-Apex_A1-66.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Cloyster",
+        "image": "Genetic-Apex_A1-67.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Krabby",
+        "image": "Genetic-Apex_A1-68.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Kingler",
+        "image": "Genetic-Apex_A1-69.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Horsea",
+        "image": "Genetic-Apex_A1-70.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Seadra",
+        "image": "Genetic-Apex_A1-71.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Goldeen",
+        "image": "Genetic-Apex_A1-72.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Seaking",
+        "image": "Genetic-Apex_A1-73.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Staryu",
+        "image": "Genetic-Apex_A1-74.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Starmie",
+        "image": "Genetic-Apex_A1-75.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Starmie ex",
+        "image": "Genetic-Apex_A1-76.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Magikarp",
+        "image": "Genetic-Apex_A1-77.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Gyarados",
+        "image": "Genetic-Apex_A1-78.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Lapras",
+        "image": "Genetic-Apex_A1-79.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Vaporeon",
+        "image": "Genetic-Apex_A1-80.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Omanyte",
+        "image": "Genetic-Apex_A1-81.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Omastar",
+        "image": "Genetic-Apex_A1-82.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Articuno",
+        "image": "Genetic-Apex_A1-83.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Articuno ex",
+        "image": "Genetic-Apex_A1-84.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Ducklett",
+        "image": "Genetic-Apex_A1-85.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Swanna",
+        "image": "Genetic-Apex_A1-86.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Froakie",
+        "image": "Genetic-Apex_A1-87.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Frogadier",
+        "image": "Genetic-Apex_A1-88.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Greninja",
+        "image": "Genetic-Apex_A1-89.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Pyukumuku",
+        "image": "Genetic-Apex_A1-90.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Bruxish",
+        "image": "Genetic-Apex_A1-91.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Snom",
+        "image": "Genetic-Apex_A1-92.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Frosmoth",
+        "image": "Genetic-Apex_A1-93.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Pikachu",
+        "image": "Genetic-Apex_A1-94.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Raichu",
+        "image": "Genetic-Apex_A1-95.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Pikachu ex",
+        "image": "Genetic-Apex_A1-96.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Magnemite",
+        "image": "Genetic-Apex_A1-97.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Magneton",
+        "image": "Genetic-Apex_A1-98.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Voltorb",
+        "image": "Genetic-Apex_A1-99.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Electrode",
+        "image": "Genetic-Apex_A1-100.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Electabuzz",
+        "image": "Genetic-Apex_A1-101.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Jolteon",
+        "image": "Genetic-Apex_A1-102.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Zapdos",
+        "image": "Genetic-Apex_A1-103.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Zapdos ex",
+        "image": "Genetic-Apex_A1-104.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Blitzle",
+        "image": "Genetic-Apex_A1-105.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Zebstrika",
+        "image": "Genetic-Apex_A1-106.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Tynamo",
+        "image": "Genetic-Apex_A1-107.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Eelektrik",
+        "image": "Genetic-Apex_A1-108.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Eelektross",
+        "image": "Genetic-Apex_A1-109.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Helioptile",
+        "image": "Genetic-Apex_A1-110.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Heliolisk",
+        "image": "Genetic-Apex_A1-111.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Pincurchin",
+        "image": "Genetic-Apex_A1-112.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Clefairy",
+        "image": "Genetic-Apex_A1-113.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Clefable",
+        "image": "Genetic-Apex_A1-114.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Abra",
+        "image": "Genetic-Apex_A1-115.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Kadabra",
+        "image": "Genetic-Apex_A1-116.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Alakazam",
+        "image": "Genetic-Apex_A1-117.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Slowpoke",
+        "image": "Genetic-Apex_A1-118.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Slowbro",
+        "image": "Genetic-Apex_A1-119.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Gastly",
+        "image": "Genetic-Apex_A1-120.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Haunter",
+        "image": "Genetic-Apex_A1-121.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Gengar",
+        "image": "Genetic-Apex_A1-122.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Gengar ex",
+        "image": "Genetic-Apex_A1-123.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Drowzee",
+        "image": "Genetic-Apex_A1-124.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Hypno",
+        "image": "Genetic-Apex_A1-125.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Mr. Mime",
+        "image": "Genetic-Apex_A1-126.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Jynx",
+        "image": "Genetic-Apex_A1-127.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Mewtwo",
+        "image": "Genetic-Apex_A1-128.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Mewtwo ex",
+        "image": "Genetic-Apex_A1-129.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Ralts",
+        "image": "Genetic-Apex_A1-130.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Kirlia",
+        "image": "Genetic-Apex_A1-131.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Gardevoir",
+        "image": "Genetic-Apex_A1-132.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Woobat",
+        "image": "Genetic-Apex_A1-133.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Swoobat",
+        "image": "Genetic-Apex_A1-134.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Golett",
+        "image": "Genetic-Apex_A1-135.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Golurk",
+        "image": "Genetic-Apex_A1-136.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Sandshrew",
+        "image": "Genetic-Apex_A1-137.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Sandslash",
+        "image": "Genetic-Apex_A1-138.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Diglett",
+        "image": "Genetic-Apex_A1-139.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Dugtrio",
+        "image": "Genetic-Apex_A1-140.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Mankey",
+        "image": "Genetic-Apex_A1-141.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Primeape",
+        "image": "Genetic-Apex_A1-142.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Machop",
+        "image": "Genetic-Apex_A1-143.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Machoke",
+        "image": "Genetic-Apex_A1-144.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Machamp",
+        "image": "Genetic-Apex_A1-145.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Machamp ex",
+        "image": "Genetic-Apex_A1-146.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Geodude",
+        "image": "Genetic-Apex_A1-147.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Graveler",
+        "image": "Genetic-Apex_A1-148.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Golem",
+        "image": "Genetic-Apex_A1-149.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Onix",
+        "image": "Genetic-Apex_A1-150.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Cubone",
+        "image": "Genetic-Apex_A1-151.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Marowak",
+        "image": "Genetic-Apex_A1-152.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Marowak ex",
+        "image": "Genetic-Apex_A1-153.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Hitmonlee",
+        "image": "Genetic-Apex_A1-154.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Hitmonchan",
+        "image": "Genetic-Apex_A1-155.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Rhyhorn",
+        "image": "Genetic-Apex_A1-156.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Rhydon",
+        "image": "Genetic-Apex_A1-157.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Kabuto",
+        "image": "Genetic-Apex_A1-158.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Kabutops",
+        "image": "Genetic-Apex_A1-159.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Mienfoo",
+        "image": "Genetic-Apex_A1-160.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Mienshao",
+        "image": "Genetic-Apex_A1-161.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Clobbopus",
+        "image": "Genetic-Apex_A1-162.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Grapploct",
+        "image": "Genetic-Apex_A1-163.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Ekans",
+        "image": "Genetic-Apex_A1-164.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Arbok",
+        "image": "Genetic-Apex_A1-165.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Nidoran♀",
+        "image": "Genetic-Apex_A1-166.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Nidorina",
+        "image": "Genetic-Apex_A1-167.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Nidoqueen",
+        "image": "Genetic-Apex_A1-168.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Nidoran♂",
+        "image": "Genetic-Apex_A1-169.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Nidorino",
+        "image": "Genetic-Apex_A1-170.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Nidoking",
+        "image": "Genetic-Apex_A1-171.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Zubat",
+        "image": "Genetic-Apex_A1-172.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Golbat",
+        "image": "Genetic-Apex_A1-173.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Grimer",
+        "image": "Genetic-Apex_A1-174.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Muk",
+        "image": "Genetic-Apex_A1-175.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Koffing",
+        "image": "Genetic-Apex_A1-176.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Weezing",
+        "image": "Genetic-Apex_A1-177.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Mawile",
+        "image": "Genetic-Apex_A1-178.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Pawniard",
+        "image": "Genetic-Apex_A1-179.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Bisharp",
+        "image": "Genetic-Apex_A1-180.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Meltan",
+        "image": "Genetic-Apex_A1-181.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Melmetal",
+        "image": "Genetic-Apex_A1-182.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Dratini",
+        "image": "Genetic-Apex_A1-183.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Dragonair",
+        "image": "Genetic-Apex_A1-184.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Dragonite",
+        "image": "Genetic-Apex_A1-185.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Pidgey",
+        "image": "Genetic-Apex_A1-186.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Pidgeotto",
+        "image": "Genetic-Apex_A1-187.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Pidgeot",
+        "image": "Genetic-Apex_A1-188.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Rattata",
+        "image": "Genetic-Apex_A1-189.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Raticate",
+        "image": "Genetic-Apex_A1-190.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Spearow",
+        "image": "Genetic-Apex_A1-191.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Fearow",
+        "image": "Genetic-Apex_A1-192.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Jigglypuff",
+        "image": "Genetic-Apex_A1-193.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Wigglytuff",
+        "image": "Genetic-Apex_A1-194.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "image": "Genetic-Apex_A1-195.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.333,
+            1.332
+        ],
+        "rarity": "🔷🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Meowth",
+        "image": "Genetic-Apex_A1-196.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Persian",
+        "image": "Genetic-Apex_A1-197.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Farfetch'd",
+        "image": "Genetic-Apex_A1-198.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Doduo",
+        "image": "Genetic-Apex_A1-199.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Dodrio",
+        "image": "Genetic-Apex_A1-200.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Lickitung",
+        "image": "Genetic-Apex_A1-201.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Chansey",
+        "image": "Genetic-Apex_A1-202.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Kangaskhan",
+        "image": "Genetic-Apex_A1-203.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Tauros",
+        "image": "Genetic-Apex_A1-204.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Ditto",
+        "image": "Genetic-Apex_A1-205.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Eevee",
+        "image": "Genetic-Apex_A1-206.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Eevee",
+        "image": "Genetic-Apex_A1-207.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Eevee",
+        "image": "Genetic-Apex_A1-208.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Porygon",
+        "image": "Genetic-Apex_A1-209.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Aerodactyl",
+        "image": "Genetic-Apex_A1-210.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Snorlax",
+        "image": "Genetic-Apex_A1-211.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.357,
+            1.428
+        ],
+        "rarity": "🔷🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Minccino",
+        "image": "Genetic-Apex_A1-212.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Cinccino",
+        "image": "Genetic-Apex_A1-213.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Wooloo",
+        "image": "Genetic-Apex_A1-214.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Dubwool",
+        "image": "Genetic-Apex_A1-215.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "All"
+    },
+    {
+        "name": "Helix Fossil",
+        "image": "Genetic-Apex_A1-216.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Dome Fossil",
+        "image": "Genetic-Apex_A1-217.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Old Amber",
+        "image": "Genetic-Apex_A1-218.webp",
+        "pullRates": [
+            2,
+            2,
+            2,
+            0,
+            0
+        ],
+        "rarity": "🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Erika",
+        "image": "Genetic-Apex_A1-219.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Misty",
+        "image": "Genetic-Apex_A1-220.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Blaine",
+        "image": "Genetic-Apex_A1-221.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Koga",
+        "image": "Genetic-Apex_A1-222.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Giovanni",
+        "image": "Genetic-Apex_A1-223.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Brock",
+        "image": "Genetic-Apex_A1-224.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Sabrina",
+        "image": "Genetic-Apex_A1-225.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Lt. Surge",
+        "image": "Genetic-Apex_A1-226.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            2.571,
+            1.714
+        ],
+        "rarity": "🔷🔷",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Bulbasaur",
+        "image": "Genetic-Apex_A1-227.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Gloom",
+        "image": "Genetic-Apex_A1-228.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Pinsir",
+        "image": "Genetic-Apex_A1-229.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Charmander",
+        "image": "Genetic-Apex_A1-230.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Rapidash",
+        "image": "Genetic-Apex_A1-231.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Squirtle",
+        "image": "Genetic-Apex_A1-232.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Gyarados",
+        "image": "Genetic-Apex_A1-233.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Lapras",
+        "image": "Genetic-Apex_A1-234.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Electrode",
+        "image": "Genetic-Apex_A1-235.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Alakazam",
+        "image": "Genetic-Apex_A1-236.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Slowpoke",
+        "image": "Genetic-Apex_A1-237.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Diglett",
+        "image": "Genetic-Apex_A1-238.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Cubone",
+        "image": "Genetic-Apex_A1-239.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Nidoqueen",
+        "image": "Genetic-Apex_A1-240.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Nidoking",
+        "image": "Genetic-Apex_A1-241.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Golbat",
+        "image": "Genetic-Apex_A1-242.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Weezing",
+        "image": "Genetic-Apex_A1-243.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Dragonite",
+        "image": "Genetic-Apex_A1-244.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Pidgeot",
+        "image": "Genetic-Apex_A1-245.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Meowth",
+        "image": "Genetic-Apex_A1-246.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Ditto",
+        "image": "Genetic-Apex_A1-247.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Eevee",
+        "image": "Genetic-Apex_A1-248.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Porygon",
+        "image": "Genetic-Apex_A1-249.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Snorlax",
+        "image": "Genetic-Apex_A1-250.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.321,
+            1.286
+        ],
+        "rarity": "⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Venusaur ex",
+        "image": "Genetic-Apex_A1-251.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Exeggutor ex",
+        "image": "Genetic-Apex_A1-252.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Charizard ex",
+        "image": "Genetic-Apex_A1-253.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Arcanine ex",
+        "image": "Genetic-Apex_A1-254.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Moltres ex",
+        "image": "Genetic-Apex_A1-255.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Blastoise ex",
+        "image": "Genetic-Apex_A1-256.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Starmie ex",
+        "image": "Genetic-Apex_A1-257.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Articuno ex",
+        "image": "Genetic-Apex_A1-258.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Pikachu ex",
+        "image": "Genetic-Apex_A1-259.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Zapdos ex",
+        "image": "Genetic-Apex_A1-260.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Gengar ex",
+        "image": "Genetic-Apex_A1-261.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Mewtwo ex",
+        "image": "Genetic-Apex_A1-262.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Machamp ex",
+        "image": "Genetic-Apex_A1-263.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Marowak ex",
+        "image": "Genetic-Apex_A1-264.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "image": "Genetic-Apex_A1-265.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Erika",
+        "image": "Genetic-Apex_A1-266.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Misty",
+        "image": "Genetic-Apex_A1-267.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Blaine",
+        "image": "Genetic-Apex_A1-268.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Koga",
+        "image": "Genetic-Apex_A1-269.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Giovanni",
+        "image": "Genetic-Apex_A1-270.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Brock",
+        "image": "Genetic-Apex_A1-271.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Sabrina",
+        "image": "Genetic-Apex_A1-272.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Lt. Surge",
+        "image": "Genetic-Apex_A1-273.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Moltres ex",
+        "image": "Genetic-Apex_A1-274.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Articuno ex",
+        "image": "Genetic-Apex_A1-275.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Zapdos ex",
+        "image": "Genetic-Apex_A1-276.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Gengar ex",
+        "image": "Genetic-Apex_A1-277.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Machamp ex",
+        "image": "Genetic-Apex_A1-278.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "image": "Genetic-Apex_A1-279.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.055,
+            0.222
+        ],
+        "rarity": "⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Charizard ex",
+        "image": "Genetic-Apex_A1-280.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.222,
+            0.888
+        ],
+        "rarity": "⭐⭐⭐",
+        "pack": "Charizard"
+    },
+    {
+        "name": "Pikachu ex",
+        "image": "Genetic-Apex_A1-281.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.222,
+            0.888
+        ],
+        "rarity": "⭐⭐⭐",
+        "pack": "Pikachu"
+    },
+    {
+        "name": "Mewtwo ex",
+        "image": "Genetic-Apex_A1-282.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.222,
+            0.888
+        ],
+        "rarity": "⭐⭐⭐",
+        "pack": "Mewtwo"
+    },
+    {
+        "name": "Mew",
+        "image": "Genetic-Apex_A1-283.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.222,
+            0.888
+        ],
+        "rarity": "⭐⭐⭐",
+        "pack": "None"
+    },
+    {
+        "name": "Charizard ex",
+        "image": "Genetic-Apex_A1-284.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.013,
+            0.053
+        ],
+        "rarity": "👑",
+        "pack": "All"
+    },
+    {
+        "name": "Pikachu ex",
+        "image": "Genetic-Apex_A1-285.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.013,
+            0.053
+        ],
+        "rarity": "👑",
+        "pack": "All"
+    },
+    {
+        "name": "Mewtwo ex",
+        "image": "Genetic-Apex_A1-286.webp",
+        "pullRates": [
+            0,
+            0,
+            0,
+            0.013,
+            0.053
+        ],
+        "rarity": "👑",
+        "pack": "All"
+    }
+]
