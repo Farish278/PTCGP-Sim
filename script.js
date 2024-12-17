@@ -33,35 +33,35 @@ fetch('PTCGP-Compressed/cards.json')
 
         function pullCard(card, position, packType, isRarePack) {
             const rarityPullRates = isRarePack ? rarePullRates : regularPullRates;
-            if (card.pack === 'All' || card.pack === packType) {
-              const pullRate = rarityPullRates[card.rarity][position - 1] / 100;
-              let randomNum = Math.random();
-          
-              return randomNum <= pullRate;
+            if (card.pack.includes(packType)) {
+                const pullRate = rarityPullRates[card.rarity][position - 1] / 100;
+                let randomNum = Math.random();
+                if (randomNum <= pullRate) {
+                    return card;
+                }
             }
-            return false;
-          }
-          
-          function openPack(packType) {
+            return null;
+        }
+
+        function openPack(packType) {
             const isRarePack = Math.random() < 0.0005; // 0.05% chance of a rare pack
             const pack = [];
-          
+
             for (let i = 0; i < 5; i++) {
-              let pulledCard = null;
-          
-              while (!pulledCard) {
-                const randomIndex = Math.floor(Math.random() * cards.length);
-                const card = cards[randomIndex]; 
-          
-                if (pullCard(card, i + 1, packType, isRarePack)) { 
-                  pulledCard = card;
-                  pack.push(card);
+                let pulledCard = null;
+
+                while (!pulledCard) {
+                    const randomIndex = Math.floor(Math.random() * cards.length);
+                    const card = cards[randomIndex];
+
+                    pulledCard = pullCard(card, i + 1, packType, isRarePack);
                 }
-              }
+
+                pack.push(pulledCard);
             }
-          
+
             return pack;
-          }
+        }
 
         // Function to display the opened pack
         function displayPack(pack) {
@@ -84,15 +84,20 @@ fetch('PTCGP-Compressed/cards.json')
             const charizardPack = openPack('Charizard');
             displayPack(charizardPack);
         });
-        
+
         document.getElementById('mewtwo-button').addEventListener('click', () => {
             const mewtwoPack = openPack('Mewtwo');
             displayPack(mewtwoPack);
         });
-        
+
         document.getElementById('pikachu-button').addEventListener('click', () => {
             const pikachuPack = openPack('Pikachu');
             displayPack(pikachuPack);
+        });
+
+        document.getElementById('mythical-button').addEventListener('click', () => {
+            const mythicalPack = openPack('Mythical');
+            displayPack(mythicalPack);
         });
     })
     .catch(error => console.error('Error fetching cards:', error));

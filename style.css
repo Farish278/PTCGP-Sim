@@ -43,29 +43,25 @@ main {
 }
 
 @media (max-width: 600px) {
-    body {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        min-height: 100vh;
-    }
-
     main {
         min-height: 100dvh;
     }
 
     #pack {
-        order: 2;
         gap: 1rem;
         justify-content: center;
+        position: fixed;
+        bottom: 1rem;
+        left: 0;
+        right: 0;
+        padding: 1rem;
     }
 
     #pack button {
-        width: 25%;
+        width: 20%;
     }
 
     #card-display {
-        order: 1;
         justify-content: center;
         gap: 1rem;
     }
