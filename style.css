@@ -12,8 +12,9 @@ main {
 
 #pack {
     display: flex;
-    justify-content: center;
-    gap: 10rem;
+    justify-content: space-between;
+    justify-items: center;
+    gap: 1rem;
     flex-wrap: wrap;
 }
 

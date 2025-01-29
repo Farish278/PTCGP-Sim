@@ -99,5 +99,15 @@ fetch('PTCGP-Compressed/cards.json')
             const mythicalPack = openPack('Mythical');
             displayPack(mythicalPack);
         });
+
+        document.getElementById('dialga-button').addEventListener('click', () => {
+            const dialgaPack = openPack('Dialga');
+            displayPack(dialgaPack);
+        });
+
+        document.getElementById('palkia-button').addEventListener('click', () => {
+            const palkiaPack = openPack('Palkia');
+            displayPack(palkiaPack);
+        });
     })
     .catch(error => console.error('Error fetching cards:', error));

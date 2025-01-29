@@ -5,7 +5,8 @@ This is a Pokémon Trading Card Game Pocket (PTCGP) Simulator. This includes the
 ## Features
 
 - All Genetic Apex Packs
-- Myhtical Island pack
+- Myhtical Island Pack
+- Space Time Showdown Packs
 - Correct Pull Rates Based On PTCGP
 - Normal Packs and Rare Packs (God Packs)
 

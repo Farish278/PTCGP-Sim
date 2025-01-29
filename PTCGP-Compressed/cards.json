@@ -3059,5 +3059,1703 @@
         "pack": [
             "Mythical"
         ]
+    },
+    {
+        "name": "Oddish",
+        "image": "Space-Time-Showdown-A2A-1.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gloom",
+        "image": "Space-Time-Showdown-A2A-2.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Bellossom",
+        "image": "Space-Time-Showdown-A2A-3.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Tangela",
+        "image": "Space-Time-Showdown-A2A-4.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Tangrowth",
+        "image": "Space-Time-Showdown-A2A-5.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Yanma",
+        "image": "Space-Time-Showdown-A2A-6.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Yanmega ex",
+        "image": "Space-Time-Showdown-A2A-7.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Roselia",
+        "image": "Space-Time-Showdown-A2A-8.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Roserade",
+        "image": "Space-Time-Showdown-A2A-9.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Turtwig",
+        "image": "Space-Time-Showdown-A2A-10.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Grotle",
+        "image": "Space-Time-Showdown-A2A-11.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Torterra",
+        "image": "Space-Time-Showdown-A2A-12.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Kricketot",
+        "image": "Space-Time-Showdown-A2A-13.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Kricketune",
+        "image": "Space-Time-Showdown-A2A-14.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Burmy",
+        "image": "Space-Time-Showdown-A2A-15.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Wormadam",
+        "image": "Space-Time-Showdown-A2A-16.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Combee",
+        "image": "Space-Time-Showdown-A2A-17.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Vespiquen",
+        "image": "Space-Time-Showdown-A2A-18.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Carnivine",
+        "image": "Space-Time-Showdown-A2A-19.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Leafeon",
+        "image": "Space-Time-Showdown-A2A-20.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mow Rotom",
+        "image": "Space-Time-Showdown-A2A-21.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Shaymin",
+        "image": "Space-Time-Showdown-A2A-22.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Magmar",
+        "image": "Space-Time-Showdown-A2A-23.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Magmortar",
+        "image": "Space-Time-Showdown-A2A-24.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Slugma",
+        "image": "Space-Time-Showdown-A2A-25.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Magcargo",
+        "image": "Space-Time-Showdown-A2A-26.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Chimchar",
+        "image": "Space-Time-Showdown-A2A-27.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Monferno",
+        "image": "Space-Time-Showdown-A2A-28.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Infernape ex",
+        "image": "Space-Time-Showdown-A2A-29.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Heat Rotom",
+        "image": "Space-Time-Showdown-A2A-30.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Swinub",
+        "image": "Space-Time-Showdown-A2A-31.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Piloswine",
+        "image": "Space-Time-Showdown-A2A-32.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mamoswine",
+        "image": "Space-Time-Showdown-A2A-33.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Regice",
+        "image": "Space-Time-Showdown-A2A-34.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Piplup",
+        "image": "Space-Time-Showdown-A2A-35.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Prinpulp",
+        "image": "Space-Time-Showdown-A2A-36.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Empoleon",
+        "image": "Space-Time-Showdown-A2A-37.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Buizel",
+        "image": "Space-Time-Showdown-A2A-38.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Floatzel",
+        "image": "Space-Time-Showdown-A2A-39.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Shellos",
+        "image": "Space-Time-Showdown-A2A-40.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gastrodon",
+        "image": "Space-Time-Showdown-A2A-41.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Finneon",
+        "image": "Space-Time-Showdown-A2A-42.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Lumineon",
+        "image": "Space-Time-Showdown-A2A-43.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Snover",
+        "image": "Space-Time-Showdown-A2A-44.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Abomasnow",
+        "image": "Space-Time-Showdown-A2A-45.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Glaceon",
+        "image": "Space-Time-Showdown-A2A-46.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Wash Rotom",
+        "image": "Space-Time-Showdown-A2A-47.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Frost Rotom",
+        "image": "Space-Time-Showdown-A2A-48.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Palkia ex",
+        "image": "Space-Time-Showdown-A2A-49.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Manaphy",
+        "image": "Space-Time-Showdown-A2A-50.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Magnemite",
+        "image": "Space-Time-Showdown-A2A-51.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Magneton",
+        "image": "Space-Time-Showdown-A2A-52.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Magnezone",
+        "image": "Space-Time-Showdown-A2A-53.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Voltorb",
+        "image": "Space-Time-Showdown-A2A-54.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Electrode",
+        "image": "Space-Time-Showdown-A2A-55.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Electabuzz",
+        "image": "Space-Time-Showdown-A2A-56.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Electivire",
+        "image": "Space-Time-Showdown-A2A-57.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Shinx",
+        "image": "Space-Time-Showdown-A2A-58.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Luxio",
+        "image": "Space-Time-Showdown-A2A-59.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Luxaray",
+        "image": "Space-Time-Showdown-A2A-60.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Pachirisu ex",
+        "image": "Space-Time-Showdown-A2A-61.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Rotom",
+        "image": "Space-Time-Showdown-A2A-62.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Togepi",
+        "image": "Space-Time-Showdown-A2A-63.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Togetic",
+        "image": "Space-Time-Showdown-A2A-64.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Togekiss",
+        "image": "Space-Time-Showdown-A2A-65.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Misdreavus",
+        "image": "Space-Time-Showdown-A2A-66.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Mismagius ex",
+        "image": "Space-Time-Showdown-A2A-67.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Ralts",
+        "image": "Space-Time-Showdown-A2A-68.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Kirlia",
+        "image": "Space-Time-Showdown-A2A-69.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Duskull",
+        "image": "Space-Time-Showdown-A2A-70.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Dusclops",
+        "image": "Space-Time-Showdown-A2A-71.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Dusknoir",
+        "image": "Space-Time-Showdown-A2A-72.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Drifloon",
+        "image": "Space-Time-Showdown-A2A-73.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Drifblim",
+        "image": "Space-Time-Showdown-A2A-74.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Uxie",
+        "image": "Space-Time-Showdown-A2A-75.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Mesprit",
+        "image": "Space-Time-Showdown-A2A-76.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Azelif",
+        "image": "Space-Time-Showdown-A2A-77.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Giratina",
+        "image": "Space-Time-Showdown-A2A-78.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Cresselia",
+        "image": "Space-Time-Showdown-A2A-79.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Rhyhorn",
+        "image": "Space-Time-Showdown-A2A-80.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Rhyhorn",
+        "image": "Space-Time-Showdown-A2A-81.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Rhypereior",
+        "image": "Space-Time-Showdown-A2A-82.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gligar",
+        "image": "Space-Time-Showdown-A2A-83.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Gliscor",
+        "image": "Space-Time-Showdown-A2A-84.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Hitmontop",
+        "image": "Space-Time-Showdown-A2A-85.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Nosepass",
+        "image": "Space-Time-Showdown-A2A-86.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Regirock",
+        "image": "Space-Time-Showdown-A2A-87.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Cranidos",
+        "image": "Space-Time-Showdown-A2A-88.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Rampaodos",
+        "image": "Space-Time-Showdown-A2A-89.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Wormadam",
+        "image": "Space-Time-Showdown-A2A-90.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Riolu",
+        "image": "Space-Time-Showdown-A2A-91.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Lucairo",
+        "image": "Space-Time-Showdown-A2A-92.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Hippopotas",
+        "image": "Space-Time-Showdown-A2A-93.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Hippowdon",
+        "image": "Space-Time-Showdown-A2A-94.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gallade ex",
+        "image": "Space-Time-Showdown-A2A-95.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Murkrow",
+        "image": "Space-Time-Showdown-A2A-96.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Honchkrow",
+        "image": "Space-Time-Showdown-A2A-97.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Sneasel",
+        "image": "Space-Time-Showdown-A2A-98.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Weavile ex",
+        "image": "Space-Time-Showdown-A2A-99.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Poochyena",
+        "image": "Space-Time-Showdown-A2A-100.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Mightyena",
+        "image": "Space-Time-Showdown-A2A-101.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Stunky",
+        "image": "Space-Time-Showdown-A2A-102.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Stuntank",
+        "image": "Space-Time-Showdown-A2A-103.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Spiritomb",
+        "image": "Space-Time-Showdown-A2A-104.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Skorupi",
+        "image": "Space-Time-Showdown-A2A-105.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Drapion",
+        "image": "Space-Time-Showdown-A2A-106.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Croagunk",
+        "image": "Space-Time-Showdown-A2A-107.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Toxicroak",
+        "image": "Space-Time-Showdown-A2A-108.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Darkrai",
+        "image": "Space-Time-Showdown-A2A-109.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Darkrai ex",
+        "image": "Space-Time-Showdown-A2A-110.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Skarmory",
+        "image": "Space-Time-Showdown-A2A-111.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Registeel",
+        "image": "Space-Time-Showdown-A2A-112.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Shieldon",
+        "image": "Space-Time-Showdown-A2A-113.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Bastiodon",
+        "image": "Space-Time-Showdown-A2A-114.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Wormadam",
+        "image": "Space-Time-Showdown-A2A-115.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Bronzor",
+        "image": "Space-Time-Showdown-A2A-116.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Bronzog",
+        "image": "Space-Time-Showdown-A2A-117.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Probopass",
+        "image": "Space-Time-Showdown-A2A-118.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Dialga ex",
+        "image": "Space-Time-Showdown-A2A-119.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Heatran",
+        "image": "Space-Time-Showdown-A2A-120.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Gible",
+        "image": "Space-Time-Showdown-A2A-121.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gabite",
+        "image": "Space-Time-Showdown-A2A-122.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Garchomp",
+        "image": "Space-Time-Showdown-A2A-123.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Lickitung",
+        "image": "Space-Time-Showdown-A2A-124.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Lickilicky ex",
+        "image": "Space-Time-Showdown-A2A-125.webp",
+        "rarity": "🔷🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Eevee",
+        "image": "Space-Time-Showdown-A2A-126.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Porygon",
+        "image": "Space-Time-Showdown-A2A-127.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Porygon2",
+        "image": "Space-Time-Showdown-A2A-128.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Porygon-Z",
+        "image": "Space-Time-Showdown-A2A-129.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Aipom",
+        "image": "Space-Time-Showdown-A2A-130.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Ambipom",
+        "image": "Space-Time-Showdown-A2A-131.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Starly",
+        "image": "Space-Time-Showdown-A2A-132.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Staravia",
+        "image": "Space-Time-Showdown-A2A-133.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Staraptor",
+        "image": "Space-Time-Showdown-A2A-134.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Bidoof",
+        "image": "Space-Time-Showdown-A2A-135.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Bibarel",
+        "image": "Space-Time-Showdown-A2A-136.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Buneary",
+        "image": "Space-Time-Showdown-A2A-137.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Lopunny",
+        "image": "Space-Time-Showdown-A2A-138.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Glameow",
+        "image": "Space-Time-Showdown-A2A-139.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Purugly",
+        "image": "Space-Time-Showdown-A2A-140.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Chatot",
+        "image": "Space-Time-Showdown-A2A-141.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Fan Rotom",
+        "image": "Space-Time-Showdown-A2A-142.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Regigigas",
+        "image": "Space-Time-Showdown-A2A-143.webp",
+        "rarity": "🔷🔷🔷",
+        "pack": [
+            "Dialga",
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Skull Fossil",
+        "image": "Space-Time-Showdown-A2A-144.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Armor Fossil",
+        "image": "Space-Time-Showdown-A2A-145.webp",
+        "rarity": "🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Pokémon Communication",
+        "image": "Space-Time-Showdown-A2A-146.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Giant Cape",
+        "image": "Space-Time-Showdown-A2A-147.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Rocky Helmet",
+        "image": "Space-Time-Showdown-A2A-148.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Lum Berry",
+        "image": "Space-Time-Showdown-A2A-149.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Cyrus",
+        "image": "Space-Time-Showdown-A2A-150.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Team Galactic Grunt",
+        "image": "Space-Time-Showdown-A2A-151.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Cynthia",
+        "image": "Space-Time-Showdown-A2A-152.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Volkner",
+        "image": "Space-Time-Showdown-A2A-153.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Dawn",
+        "image": "Space-Time-Showdown-A2A-154.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mars",
+        "image": "Space-Time-Showdown-A2A-155.webp",
+        "rarity": "🔷🔷",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Tangrowth",
+        "image": "Space-Time-Showdown-A2A-156.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Combee",
+        "image": "Space-Time-Showdown-A2A-157.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Carnivine",
+        "image": "Space-Time-Showdown-A2A-158.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Shaymin",
+        "image": "Space-Time-Showdown-A2A-159.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mamoswine",
+        "image": "Space-Time-Showdown-A2A-160.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Gastrodon",
+        "image": "Space-Time-Showdown-A2A-161.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Manaphy",
+        "image": "Space-Time-Showdown-A2A-162.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Shinx",
+        "image": "Space-Time-Showdown-A2A-163.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Rotom",
+        "image": "Space-Time-Showdown-A2A-164.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Drifloon",
+        "image": "Space-Time-Showdown-A2A-165.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mesprit",
+        "image": "Space-Time-Showdown-A2A-166.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Giratina",
+        "image": "Space-Time-Showdown-A2A-167.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Cresselia",
+        "image": "Space-Time-Showdown-A2A-168.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Rhypereior",
+        "image": "Space-Time-Showdown-A2A-169.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Lucairo",
+        "image": "Space-Time-Showdown-A2A-170.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Hippopotas",
+        "image": "Space-Time-Showdown-A2A-171.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Spiritomb",
+        "image": "Space-Time-Showdown-A2A-172.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Croagunk",
+        "image": "Space-Time-Showdown-A2A-173.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Heatran",
+        "image": "Space-Time-Showdown-A2A-174.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Garchomp",
+        "image": "Space-Time-Showdown-A2A-175.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Staraptor",
+        "image": "Space-Time-Showdown-A2A-176.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Bidoof",
+        "image": "Space-Time-Showdown-A2A-177.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Glameow",
+        "image": "Space-Time-Showdown-A2A-178.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Regigigas",
+        "image": "Space-Time-Showdown-A2A-179.webp",
+        "rarity": "⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Yanmega ex",
+        "image": "Space-Time-Showdown-A2A-180.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Infernape ex",
+        "image": "Space-Time-Showdown-A2A-181.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Palkia ex",
+        "image": "Space-Time-Showdown-A2A-182.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Pachirisu ex",
+        "image": "Space-Time-Showdown-A2A-183.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mismagius ex",
+        "image": "Space-Time-Showdown-A2A-184.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gallade ex",
+        "image": "Space-Time-Showdown-A2A-185.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Weavile ex",
+        "image": "Space-Time-Showdown-A2A-186.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Darkrai ex",
+        "image": "Space-Time-Showdown-A2A-187.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Dialga ex",
+        "image": "Space-Time-Showdown-A2A-188.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Lickilicky ex",
+        "image": "Space-Time-Showdown-A2A-189.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Cyrus",
+        "image": "Space-Time-Showdown-A2A-190.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Team Galactic Grunt",
+        "image": "Space-Time-Showdown-A2A-191.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Cynthia",
+        "image": "Space-Time-Showdown-A2A-192.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Volkner",
+        "image": "Space-Time-Showdown-A2A-193.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Dawn",
+        "image": "Space-Time-Showdown-A2A-194.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mars",
+        "image": "Space-Time-Showdown-A2A-195.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Yanmega ex",
+        "image": "Space-Time-Showdown-A2A-196.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Infernape ex",
+        "image": "Space-Time-Showdown-A2A-197.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Pachirisu ex",
+        "image": "Space-Time-Showdown-A2A-198.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Mismagius ex",
+        "image": "Space-Time-Showdown-A2A-199.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Gallade ex",
+        "image": "Space-Time-Showdown-A2A-200.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Weavile ex",
+        "image": "Space-Time-Showdown-A2A-201.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Darkrai ex",
+        "image": "Space-Time-Showdown-A2A-202.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Lickilicky ex",
+        "image": "Space-Time-Showdown-A2A-203.webp",
+        "rarity": "⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Palkia ex",
+        "image": "Space-Time-Showdown-A2A-204.webp",
+        "rarity": "⭐⭐⭐",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Dialga ex",
+        "image": "Space-Time-Showdown-A2A-205.webp",
+        "rarity": "⭐⭐⭐",
+        "pack": [
+            "Dialga"
+        ]
+    },
+    {
+        "name": "Palkia ex",
+        "image": "Space-Time-Showdown-A2A-206.webp",
+        "rarity": "👑",
+        "pack": [
+            "Palkia"
+        ]
+    },
+    {
+        "name": "Dialga ex",
+        "image": "Space-Time-Showdown-A2A-207.webp",
+        "rarity": "👑",
+        "pack": [
+            "Dialga"
+        ]
     }
 ]
