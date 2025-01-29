@@ -1,6 +1,6 @@
 # PTCGP Sim
 
-This is a Pokémon Trading Card Game Pocket (PTCGP) Simulator. This includes the ability to open all the Genetic Apex packs and the Mythical Island pack from PTCGP with the correct pull rates based on PTCGP.
+This is a Pokémon Trading Card Game Pocket (PTCGP) Simulator. This includes the ability to open all the Genetic Apex packs, Mythical Island pack and the Space Showdown packs from PTCGP with the correct pull rates based on PTCGP.
 
 ## Features
 
